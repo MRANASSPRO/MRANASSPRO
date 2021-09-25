@@ -5,9 +5,10 @@
   <a href="https://www.linkedin.com/in/anass-radi1/">LinkedIn</a>
 </p>
 <br/>
-- 👋 Hi, I’m @MRANASSPRO call me Anass
+
+- 👋 I’m @MRANASSPRO call me Anass
 - 👀 I’m  a passionate mobile developer specializing in Android
-- 📫 How to reach me mranassradi@gmail.com
+- 📫 How to reach me via email mranassradi@gmail.com
 
 ## Github stats
 ![Anass's github stats](https://github-readme-stats.vercel.app/api?username=MRANASSPRO&count_private=true&theme=tokyonight&show_icons=true&hide=stars,contribs)
