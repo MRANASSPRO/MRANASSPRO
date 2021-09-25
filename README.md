@@ -1,8 +1,8 @@
 <h2 align="center">👋 Salam 🔶 Hi!</h2>
 <p align="center">
-  <a href="https://mranasspro.github.io">Contact</a> •
-  <a href="https://twitter.com/AnassRadi2">Twitter</a> •
-  <a href="https://www.linkedin.com/in/anass-radi1/">LinkedIn</a>
+  <a href="https://mranasspro.github.io" target="_blank">Contact</a> •
+  <a href="https://twitter.com/AnassRadi2" target="_blank">Twitter</a> •
+  <a href="https://www.linkedin.com/in/anass-radi1/" target="_blank">LinkedIn</a>
 </p>
 <br/>
 
