@@ -12,7 +12,7 @@
 
 ## Github stats
 ![Anass's github stats](https://github-readme-stats.vercel.app/api?username=MRANASSPRO&count_private=true&theme=tokyonight&show_icons=true&hide=stars,contribs)
-![Anass's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRANASSPRO&langs_count=8&theme=tokyonight)
+![Anass's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRANASSPRO&langs_count=8&theme=radical)
 
 
 <br/>
