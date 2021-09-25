@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://mranasspro.github.io">Contact</a> •
   <a href="https://twitter.com/AnassRadi2">Twitter</a> •
-  <a href="https://www.linkedin.com/in/anass-radi1/">Linkedin>
+  <a href="https://www.linkedin.com/in/anass-radi1/">LinkedIn</a>
 </p>
 <br/>
 - 👋 Hi, I’m @MRANASSPRO call me Anass
