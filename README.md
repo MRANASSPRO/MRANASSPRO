@@ -1,16 +1,22 @@
-### Hi there 👋
+<h2 align="center">👋 Salam 🔶 Hi!</h2>
+<p align="center">
+  <a href="https://mranasspro.github.io">Contact</a> •
+  <a href="https://twitter.com/AnassRadi2">Twitter</a> •
+  <a href="https://www.linkedin.com/in/anass-radi1/">Linkedin>
+</p>
+<br/>
+- 👋 Hi, I’m @MRANASSPRO call me Anass
+- 👀 I’m  a passionate mobile developer specializing in Android
+- 📫 How to reach me mranassradi@gmail.com
 
-<!--
-**MRANASSPRO/MRANASSPRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Github stats
+![Anass's github stats](https://github-readme-stats.vercel.app/api?username=MRANASSPRO&count_private=true&theme=tokyonight&show_icons=true&hide=stars,contribs)
+![Anass's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRANASSPRO&langs_count=8&theme=tokyonight)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<div align="right">
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MRANASSPRO.MRANASSPRO)
+
+</div>
