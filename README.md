@@ -6,11 +6,8 @@
 <br/>
 
 - 👋 I’m @MRANASSPRO call me Anass
-- 👀 I’m  a passionate mobile developer specializing in Android
-- 📫 How to reach me via email mranassradi@gmail.com
-
-## Github stats
-![Anass's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRANASSPRO&show_icons=true&theme=radical)
+- 👀 I’m  a passionate Mobile Software developer with 4+years of experience in Android Development
+- 📫 How to reach me via email mranass.deu@gmail.com
 
 <br/>
 <div align="right">
