@@ -12,6 +12,4 @@
 <br/>
 <div align="right">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MRANASSPRO.MRANASSPRO)
-
 </div>
