@@ -1,6 +1,5 @@
 <h2 align="center">👋 Salam 🔶 Hi!</h2>
 <p align="center">
-  <a href="https://mranasspro.github.io" target="_blank">Contact</a> •
   <a href="https://www.linkedin.com/in/anass-radi1" target="_blank">LinkedIn</a> 
 </p>
 <br/>
