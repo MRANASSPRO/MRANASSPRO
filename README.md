@@ -1,8 +1,5 @@
-<h2 align="center">👋 Salam 🔶 Hi!</h2>
-<br/>
-
 - 👋 Call me Anass
-- 👀 I’m  a passionate Mobile Software developer with 6+ years of experience in Android Development.
+- 👀 I’m  a passionate Mobile Software developer with 6+ years of experience.
 - 📫 How to reach me via email mranass.deu@gmail.com
 
 <br/>
